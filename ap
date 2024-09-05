@@ -16,4 +16,13 @@ checking track
 cheching auth
 checking merge
 checking pr
+<<<<<<< HEAD
 checking rb
+=======
+checking undoing checkout
+1
+2
+3
+4444
+5
+>>>>>>> parent of c971573 (Revert "reset check")
